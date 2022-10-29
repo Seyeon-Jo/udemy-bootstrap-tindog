@@ -1,0 +1,90 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom: 4rem;
+}
+
+.navbar .navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.navbar .nav-item {
+  padding: 0 1.2rem;
+}
+
+.navbar .nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Title */
+
+.title .title-description h1 {
+  margin-bottom: 2rem;
+}
+
+.title .title-description .btn-apple {
+  margin-right: 0.8rem;
+}
+
+.title .title-img img {
+  width: 60%;
+  margin-left: 2rem;
+  transform: rotate(25deg);
+}
+
+/* Features */
+
+#features {
+  padding: 10% 15%;
+}
+
+.features-items {
+  text-align: center;
+}
+
+.features-items i {
+  font-size: 4rem;
+  color: #ef8172;
+  margin: 0 0 1rem;
+}
+
+.features-items i:hover {
+  font-size: 4rem;
+  color: #ff4c68;
+  margin: 0 0 1rem;
+}
+
+.features-items h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.features-items p {
+  color: #8f8f8f;
+  width: 80%;
+  margin: auto;
+}
